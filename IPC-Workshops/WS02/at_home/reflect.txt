@@ -1,0 +1,9 @@
+To be honest, it took me quiet a long time trying to finish the workshop, and I realized how difficult it 
+was when I ran the program with different variables but ended up resulting in wrong outputs. The most difficult 
+part for me was printing the correct output. For example, let's say that the amount to pay was 4.57. Hadn't I 
+incremented the balance remaining by 0.005, the output would have showed the proper result minus 1 cent, which 
+indeed is a critical flaw if we were participating in a commerce work environment. Of course if we just played 
+with one transaction, it would not be much of a big deal. However, what would it happen if we had to deal with 
+millions of millions of transactions? The company would lose a lot of money. Having said said, I finally got the 
+balance remaining displayed correctly just with the trick of adding 0.005 when dealing with the whole operation. 
+In addition to this, I also realized that there are many  
